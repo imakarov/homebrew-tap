@@ -1,6 +1,6 @@
 cask "shiftswitch" do
-  version "1.0.2"
-  sha256 "4c74becdf5f3836d67ddbd66d3940042557c90ec05e5c959aa8411e4103e6edc"
+  version "1.1.0"
+  sha256 "49ff741d7fcecd42be20414611da9e07109957acc6b2ea26cd36ab2b021bf9fa"
 
   url "https://github.com/imakarov/shiftswitch/releases/download/v#{version}/ShiftSwitch.dmg"
   name "ShiftSwitch"
